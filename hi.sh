@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "hi";
-echo "hlo";
+echo  "Ramesh: hi everyone"
+echo  "suresh : hi team"
 echo "hello";
 
