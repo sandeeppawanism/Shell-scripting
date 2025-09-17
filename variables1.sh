@@ -2,3 +2,6 @@
 
 echo "time stamp";
 
+$(date)
+
+
